@@ -1,0 +1,12 @@
+# https://github.com/gohugoio/hugo/releases/tag/v0.89.0
+# Hugo now writes an empty file named .hugo_build.lock to the root of the project when building (also when doing hugo new mypost.md and other commands that requires a build). We recommend you just leave this file alone. Put it in .gitignore or similar if you don't want the file in your source repository.
+.hugo_build.lock
+
+# Visual Studio Code
+.vscode
+
+# Public Build
+public
+
+# Resources https://docs.stack.jimmycai.com/zh/configuration/cache-resources
+resources
