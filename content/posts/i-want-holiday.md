@@ -4,7 +4,7 @@ author: "taochesky"              # 文章作者
 description : "谨以此篇悼念我那凌晨还在玩彩虹6号辅以清脆青轴键盘声和优美中国话的室友。"    # 文章描述信息
 date: 2022-1-8            # 文章编写日期
 lastmod: 2022-09-5         # 文章修改日期
-thumbnailImage:
+thumbnailImage: "/images/bg6.png"
 thumbnailImagePosition: bottom
 # next: /tutorials/github-pages-blog      # 下一篇博客地址
 # prev: /tutorials/automated-deployments  # 上一篇博客地址
