@@ -39,5 +39,5 @@ keywords = [                # 文章关键词
 诸君，夜安。
 
 写于西历2022年1月8日早3：15：00
-![bg-天狗](/images/bg4.gif "bg4")
+![bg-天狗](/images/bg6.png "bg6")
 
