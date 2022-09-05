@@ -1,6 +1,13 @@
 ---
 title: "如何使用卫生纸"           # 文章标题
 author: "taochesky"              # 文章作者
+summary : "abc"    # 文章描述信息
+date: 2022-1-8            # 文章编写日期
+lastmod: 2022-09-5         # 文章修改日期
+thumbnailImage:
+thumbnailImagePosition: bottom
+# next: /tutorials/github-pages-blog      # 下一篇博客地址
+# prev: /tutorials/automated-deployments  # 上一篇博客地址
 ---
 
 ## 如何使用卫生纸
