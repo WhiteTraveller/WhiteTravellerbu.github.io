@@ -44,7 +44,7 @@ canonifyurls = true
 # Author
 # ------
 [author]
-  name = "白色 Lastname"
+  name = "白色旅人"
   bio = "白色的旅人 很白"
   job = "带学生"
   location = "HFUT"
@@ -91,6 +91,12 @@ canonifyurls = true
   name = "About"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
   url = "/#about"
+[[menu.main]]
+  weight = 6
+  identifier = "friends"
+  name = "友链"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-rss\" aria-hidden=\"true\"></i>"
+  url = "/index.xml"
 
 [[menu.links]]
   weight = 1
@@ -99,13 +105,13 @@ canonifyurls = true
   pre = "<i class=\"sidebar-button-icon fab fa-lg fa-github\" aria-hidden=\"true\"></i>"
   url = "https://github.com/WhiteTraveller"
 
-
 [[menu.misc]]
   weight = 1
   identifier = "rss"
   name = "RSS"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-rss\" aria-hidden=\"true\"></i>"
   url = "/index.xml"
+
 
 # -------------
 # Customization
