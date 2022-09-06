@@ -1,15 +1,10 @@
 ---
 title: "如何使用卫生纸"           # 文章标题
 author: "taochesky"              # 文章作者
-date: 2022-1-8            # 文章编写日期
-lastmod: 2022-09-5         # 文章修改日期
+date: 2022-01-08            # 文章编写日期
 thumbnailImage: /images/cover.jpg
 thumbnailImagePosition: bottom
-# next: /tutorials/github-pages-blog      # 下一篇博客地址
-# prev: /tutorials/automated-deployments  # 上一篇博客地址
 ---
-
-## 如何使用卫生纸
 
 如果是一个女性，你已经可以划走这篇文章了，因为你并不是这篇文章的目标群体。作者会在使用后给出姊妹篇——如何使用卫生巾，请各位敬请期待。
 
@@ -30,3 +25,4 @@ thumbnailImagePosition: bottom
 希望各位小朋友在看完这篇文章后，能养成便前洗手，饭后冲水的好习惯。因为一个伟人曾经说过，好习惯受用终生。希望你们在接下来的生活当中，能更好的利用卫生纸，把这一四大发明在无人知晓的暗处发扬光大！在文章的最后，请允许我说出那句口号：冲冲更健康。
 
 （本文章纯属虚构，如有雷同，纯属活该）
+![bg-燕石](/images/cover.jpg "ys")
