@@ -95,7 +95,7 @@ canonifyurls = true
   weight = 6
   identifier = "friends"
   name = "友链"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-rss\" aria-hidden=\"true\"></i>"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-users\" aria-hidden=\"true\"></i>"
   url = "/index.xml"
 
 [[menu.links]]
