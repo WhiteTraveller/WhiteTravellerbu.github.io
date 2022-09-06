@@ -1,12 +1,9 @@
 ---
 title: "如何使用卫生纸"           # 文章标题
 author: "taochesky"              # 文章作者
-summary : "如果是一个女性，你已经可以划走这篇文章了，因为你并不是这篇文章的目标群体。作者会在使用后给出姊妹篇——如何使用卫生巾，请各位敬请期待。
-
-如果你是一个男性，相信你对这篇文章标题的理解肯定要高于作者本人，作者的浅薄之见相信入不了各位的法眼，所以您也可以划走这篇文章了。"    # 文章描述信息
 date: 2022-1-8            # 文章编写日期
 lastmod: 2022-09-5         # 文章修改日期
-thumbnailImage:
+thumbnailImage: /images/cover.png
 thumbnailImagePosition: bottom
 # next: /tutorials/github-pages-blog      # 下一篇博客地址
 # prev: /tutorials/automated-deployments  # 上一篇博客地址
