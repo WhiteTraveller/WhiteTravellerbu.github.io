@@ -352,7 +352,7 @@ canonifyurls = true
       # repo =
       # See all options: https://github.com/gitalk/gitalk#options
       [params.comment.gitalk.options]
-        language = "en"
+        language = "zh"
         perPage = 10
         distractionFreeMode = false
         enableHotKey = true
