@@ -342,10 +342,10 @@ canonifyurls = true
   # --------------
   [params.comment]
     [params.comment.disqus]
-      enable = true
+      enable = false
       shortname = "tranquilpeak"
     [params.comment.gitalk]
-      enable = false
+      enable = true
       # clientId =
       # clientSecret =
       # owner =
