@@ -346,10 +346,10 @@ canonifyurls = true
       shortname = "tranquilpeak"
     [params.comment.gitalk]
       enable = true
-      # clientId =
-      # clientSecret =
-      # owner =
-      # repo =
+      clientId = fa663374f2c9025f7752
+      clientSecret = 251bc0a83649cde9efdf8209b099ffd9f9ec6c5c
+      owner = WhiteTraveller
+      repo = gittalk-wt
       # See all options: https://github.com/gitalk/gitalk#options
       [params.comment.gitalk.options]
         language = "zh"
