@@ -196,7 +196,7 @@ canonifyurls = true
   autoThumbnailImage = true
 
   # Your favicon path, default is "/favicon.png"
-  favicon = "/images/favicon.png"
+  favicon = "/favicon.png"
 
   # ------------------
   # External resources
@@ -325,10 +325,10 @@ canonifyurls = true
   # -------------------
   # Integrated services
   # -------------------
-  # Gravatar
-  #  >> See Author section
-  #    [author]
-  #      gravatarEmail =
+   Gravatar
+    >> See Author section
+      [author]
+        gravatarEmail = zhaomargatroid@outlook.com
   # Google Analytics
   #  >> See googleAnalytics
   #    googleAnalytics =
