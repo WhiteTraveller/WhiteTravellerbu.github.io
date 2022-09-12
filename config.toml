@@ -328,7 +328,7 @@ canonifyurls = true
    Gravatar
     >> See Author section
       [author]
-        gravatarEmail = zhaomargatroid@outlook.com
+  #      gravatarEmail = zhaomargatroid@outlook.com
   # Google Analytics
   #  >> See googleAnalytics
   #    googleAnalytics =
