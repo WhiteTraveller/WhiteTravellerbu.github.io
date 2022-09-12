@@ -1,5 +1,5 @@
 ---
-title: "小北门的猪脚饭 作者 白色旅人"           # 文章标题
+title: "小北门的猪脚饭"           # 文章标题
 author: "taochesky"              # 文章作者
 showSocial: false
 date: 2022-01-09            # 文章编写日期
