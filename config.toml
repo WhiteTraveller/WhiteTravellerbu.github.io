@@ -49,10 +49,10 @@ canonifyurls = true
   job = "带学生"
   location = "HFUT"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-  gravatarEmail = "zhaomargatroid@outlook.com"
+  # gravatarEmail = "zhaomargatroid@outlook.com"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-  picture = "/images/favicon.png"
+  picture = "/images/favicon.png" 
   # Your Twitter username without the @. E.g : thibaudlepretre
   # twitter = "thibaudlepretre"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
@@ -328,7 +328,7 @@ canonifyurls = true
    Gravatar
     >> See Author section
       [author]
-        gravatarEmail = zhaomargatroid@outlook.com
+  #      gravatarEmail = zhaomargatroid@outlook.com
   # Google Analytics
   #  >> See googleAnalytics
   #    googleAnalytics =
