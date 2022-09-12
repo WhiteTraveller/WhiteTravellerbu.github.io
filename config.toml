@@ -49,7 +49,7 @@ canonifyurls = true
   job = "带学生"
   location = "HFUT"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-  # gravatarEmail = "zhaomargatroid@outlook.com"
+  gravatarEmail = "zhaomargatroid@outlook.com"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
   picture = "/images/favicon.png" 
