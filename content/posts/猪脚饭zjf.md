@@ -12,7 +12,7 @@ thumbnailImagePosition: left
 
 ### 地址如下：
 
-![zjf](/image/zjf.jpg "zjf")
+![zjf](/images/zjf.jpg "zjf")
 
 奈何本人摄影设备只有一个打赢了复活赛的四代目小米mix2s（打复活赛的事情参见后面的文章），总之在小北门外面，凭图片还是能找到的。
 
