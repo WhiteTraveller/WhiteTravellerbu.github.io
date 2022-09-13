@@ -1,5 +1,5 @@
 ---
-title: "如何使用卫生纸"           # 文章标题
+title: "如何使用卫生纸-作者:taochesky"           # 文章标题
 author: "taochesky"              # 文章作者
 date: 2022-01-08            # 文章编写日期
 thumbnailImage: /images/cover.jpg

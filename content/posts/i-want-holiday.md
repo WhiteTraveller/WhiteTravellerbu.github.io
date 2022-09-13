@@ -1,5 +1,5 @@
 ---
-title: "论学校不放假和学生躺平之间的联系"           # 文章标题
+title: "论学校不放假和学生躺平之间的联系-作者:taochesky"           # 文章标题
 author: "taochesky"              # 文章作者
 showSocial: false
 date: 2022-01-08            # 文章编写日期
