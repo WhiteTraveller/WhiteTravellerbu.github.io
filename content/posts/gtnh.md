@@ -6,7 +6,7 @@ date: 2022-10-05           # 文章编写日期
 thumbnailImage:
 thumbnailImagePosition: left
 ---
-# 你服采用littleskin作为认证服务器
+### 你服采用littleskin作为认证服务器
 
 去[littleskin](https://littleskin.cn/)注册一个账号,然后在左侧”角色管理“选项中，添加你的角色。到此你的littleskin就注册好了，你还可以在我的衣柜中添加皮肤。
 <!--more-->
