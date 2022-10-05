@@ -50,3 +50,5 @@ https://littlesk.in/api/yggdrasil
 点击登录，登录完成后点左上角的返回键，开始游戏
 
 ![mckf](/images/mckf(7).png "mckf")
+
+在打开过程中请耐心等待十分钟，一般来讲出现卡顿是正常的，等待就好，祝您游戏愉快。
