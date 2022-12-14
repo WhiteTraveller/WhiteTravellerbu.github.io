@@ -49,7 +49,7 @@ canonifyurls = true
   job = "带学生"
   location = "魔法森林人形组装厂"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-  gravatarEmail = 
+  gravatarEmail = ""
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
   picture = "https://tva1.sinaimg.cn/large/006BpP3mgy1h93mbn6zpdj30hs0hs74r.jpg" 
