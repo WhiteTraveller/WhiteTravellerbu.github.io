@@ -98,7 +98,7 @@ canonifyurls = true
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-users\" aria-hidden=\"true\"></i>"
   url = "/index.xml"
 [[menu.main]]
-  weight = 1
+  weight = 7
   identifier = "github"
   name = "GitHub"
   pre = "<i class=\"sidebar-button-icon fab fa-lg fa-github\" aria-hidden=\"true\"></i>"
